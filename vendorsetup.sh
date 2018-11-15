@@ -1,2 +1,2 @@
-add_lunch_combo rr_honami-eng
-add_lunch_combo rr_honami-userdebug
+add_lunch_combo havoc_honami-eng
+add_lunch_combo havoc_honami-userdebug
