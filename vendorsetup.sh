@@ -1,2 +1,2 @@
-add_lunch_combo pixys_honami-eng
-add_lunch_combo pixys_honami-userdebug
+add_lunch_combo du_honami-eng
+add_lunch_combo du_honami-userdebug
