@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow.mk
+    $(LOCAL_DIR)/pixys.mk
