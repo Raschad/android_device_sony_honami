@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_honami.mk
+    $(LOCAL_DIR)/du_honami.mk
