@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys.mk
+    $(LOCAL_DIR)/pixel.mk
