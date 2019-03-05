@@ -25,6 +25,9 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/honami/include
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/honami/bluetooth
 
+# Enable real time lockscreen charging current values
+BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
+
 # Kernel properties
 TARGET_KERNEL_CONFIG := lineageos_rhine_honami_row_defconfig
 
