@@ -1,6 +1,7 @@
 # Inherit CM common Phone stuff.
 $(call inherit-product, vendor/xosp/config/common_full_phone.mk)
 $(call inherit-product, vendor/xosp/config/xosp.mk)
+$(call inherit-product, vendor/xosp/xosp_apps_essentials.mk)
 
 $(call inherit-product, device/sony/honami/full_honami.mk)
 
